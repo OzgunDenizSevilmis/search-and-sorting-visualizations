@@ -53,7 +53,7 @@ This project includes simple implementations and visualizations of **Linear Sear
 |------|-------------|
 | `linearsort.py` | Linear search algorithm with visualization |
 | `bubblesort.py` | Bubble sort algorithm with visualization |
-| `time_complexity_analysis.py` | Compares runtime of both algorithms |
+| `time_complexityanalysis.py` | Compares runtime of both algorithms |
 | `Design-of-Algorithms.pdf` | Presentation/report explaining the algorithms |
 
 ---
